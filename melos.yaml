@@ -1,0 +1,5 @@
+name: marble
+repository: https://github.com/erickzanardo/marble
+packages:
+  - packages/**
+  - .
