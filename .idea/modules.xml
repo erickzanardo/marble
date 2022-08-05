@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/packages/marble_frog/example/melos_example.iml" filepath="$PROJECT_DIR$/packages/marble_frog/example/melos_example.iml" />
       <module fileurl="file://$PROJECT_DIR$/packages/marble/melos_marble.iml" filepath="$PROJECT_DIR$/packages/marble/melos_marble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/marble_cli/melos_marble_cli.iml" filepath="$PROJECT_DIR$/packages/marble_cli/melos_marble_cli.iml" />
       <module fileurl="file://$PROJECT_DIR$/packages/marble_frog/melos_marble_frog.iml" filepath="$PROJECT_DIR$/packages/marble_frog/melos_marble_frog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/marble_site/melos_marble_site.iml" filepath="$PROJECT_DIR$/packages/marble_site/melos_marble_site.iml" />
       <module fileurl="file://$PROJECT_DIR$/melos_marble.iml" filepath="$PROJECT_DIR$/melos_marble.iml" />
     </modules>
   </component>
