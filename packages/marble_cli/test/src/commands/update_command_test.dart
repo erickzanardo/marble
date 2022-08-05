@@ -1,9 +1,4 @@
-// Copyright (c) 2022, Very Good Ventures
-// https://verygood.ventures
-//
-// Use of this source code is governed by an MIT-style
-// license that can be found in the LICENSE file or at
-// https://opensource.org/licenses/MIT.
+import 'dart:io';
 
 import 'package:marble_cli/src/command_runner.dart';
 import 'package:marble_cli/src/commands/commands.dart';
@@ -12,7 +7,6 @@ import 'package:mason_logger/mason_logger.dart';
 import 'package:mocktail/mocktail.dart';
 import 'package:pub_updater/pub_updater.dart';
 import 'package:test/test.dart';
-import 'package:universal_io/io.dart';
 
 class FakeProcessResult extends Fake implements ProcessResult {}
 
